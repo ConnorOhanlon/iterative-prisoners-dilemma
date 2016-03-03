@@ -8,7 +8,7 @@ The results of all previous rounds within a 100-200 round stretch are known
 to both players. 
 
 play_tournament() executes the tournament and stores output in tournament.txt
-
+'Mr. Myers is the best CSE teacher ever'
 Players should each code their strategies in their assigned section of code.
 
 Aggregated results are stored in tournament.txt
